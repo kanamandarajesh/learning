@@ -1,0 +1,30 @@
+tenses
+
+past tence
+================================================================================
+simple            continous             perfect            perfect continous
+==================================================================================
+sub+              (was/were)
+past tenseverb    sub+be(past)+         sub+had+           sub+had+been+
+                  prese+participle      past participle    pre participle
+
+
+
+presentense
+================================================================================
+simple            continous             perfect              perfect continous
+==================================================================================
+sub+base verb     sub+be(pre)+          sub+have/has+         sub+have/has+been+
+                  prese+participle      past participle       pre participle
+
+
+
+
+
+futuretense
+=================================================================================
+simple            continous             perfect               perfect continous
+==================================================================================
+sub+will+
+baseverb          sub+will+be           sub+will+have+         sub+will+have+been
+                  prese participle      past participle        pre participle
